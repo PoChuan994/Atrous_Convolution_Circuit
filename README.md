@@ -1,6 +1,6 @@
 # Atrous_Convolution_Circuit
 
-Data sumaary of gate level simulation (by Quartus)
+Data sumary of gate level simulation (by Quartus)
 - Device: EP4CE55F23A7
 - Totoal logic element: 895/55856(2%)
 - Total registers: 93
