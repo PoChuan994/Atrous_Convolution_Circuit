@@ -1,5 +1,15 @@
 # Atrous_Convolution_Circuit
 
+About this work
+- There are two layers of CNN in this work.
+- In layer 0, there are three task, including:
+  1. replicate padding
+  2. atrous convolution
+  3. ReLU function 
+- In layer 1, there are two task, including:
+  1. max pooling
+  2. round up
+
 Data sumary of gate level simulation (by Quartus)
 - Device: EP4CE55F23A7
 - Totoal logic element: 895/55856(2%)
