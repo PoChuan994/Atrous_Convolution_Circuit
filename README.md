@@ -1,5 +1,6 @@
 # Introduction
 - This project implemented two lay of CNN using verilog and verifed by python.
+- The cost of this project used only **2% area** on the simulation device.
 - CNN architecture:
     - In layer 1, the three main modules are shown below:
         1. replicate padding
@@ -8,7 +9,6 @@
     - In layer 2, the three main modules are shown below:
         1. max pooling
         2. round up 
-- The cost of this project used only 2% area on the simulation device.
 - Data sumary of gate level simulation (by Quartus)
     - Device: EP4CE55F23A7
     - Totoal logic element: 895/55856(2%)
