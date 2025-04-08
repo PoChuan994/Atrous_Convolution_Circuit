@@ -1,6 +1,7 @@
 # Introduction
 - This project implemented two lay of CNN using verilog and verifed by python.
 - The cost of this project used only **2% area** on the simulation device.
+- The full development record is available at [here](https://hackmd.io/@Cg9G-UQmRMyh-L6Jvkq_Gw/CNN-circuit)
 - CNN architecture:
     - In layer 1, the three main modules are shown below:
         1. replicate padding
